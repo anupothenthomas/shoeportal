@@ -1,0 +1,14 @@
+shoeportal\cart\Cart.class
+shoeportal\CartRestController.class
+shoeportal\shoeportalController.class
+shoeportal\users\UsersDAOImpl.class
+shoeportal\categories\CategoriesDao.class
+shoeportal\users\UsersDao.class
+shoeportal\product\Product.class
+shoeportal\cart\CartDao.class
+shoeportal\cart\CartDaoImpl.class
+shoeportal\categories\CategoriesDAOImpl.class
+shoeportal\product\ProductDAOImpl.class
+shoeportal\users\Users.class
+shoeportal\product\ProductDao.class
+shoeportal\categories\Categories.class
